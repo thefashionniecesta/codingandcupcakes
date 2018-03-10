@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to bottom right, #ff66cc, black);
+  
+}
+
+.header {
+    background-color: #00ffff;
+}
+
+ul.menu li a.selected {
+    background: #cc66ff;
+}
+
+.content { 
+  background: white;
+  width: 75%;
+  margin: 0px auto;
+}
